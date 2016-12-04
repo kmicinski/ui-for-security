@@ -8,7 +8,7 @@ A list of papers about how to implement and evelaute UIs for security.
 
 ## General overview papers
 
-- [A Framework for Reasoning About the Human in the Loop](https://www.usenix.org/legacy/event/upsec08/tech/full_papers/cranor/cranor.pdf), Lorrie Cranor et al. 
+- [A Framework for Reasoning About the Human in the Loop](https://www.usenix.org/legacy/event/upsec08/tech/full_papers/cranor/cranor.pdf), Lorrie Cranor
 
 # Courses 
 
