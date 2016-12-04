@@ -12,13 +12,8 @@ A list of papers about how to implement and evelaute UIs for security.
 
 # Courses 
 
-## Not quite related to security
-
-- The Psychology of Everyday Things
+- CUPS course: http://cups.cs.cmu.edu/courses/ups-fa11/readings.html
 
 # Books
 
-# Other reading lists
-
-- CUPS course: http://cups.cs.cmu.edu/courses/ups-fa11/readings.html
 
